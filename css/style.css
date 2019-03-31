@@ -1,0 +1,37 @@
+.background{
+	background: url(../img/beach.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.container{
+	width: 500px;
+	margin: 20px auto;
+
+}
+
+.login-section h2{
+	color: #ff6347;
+	text-align: center;
+}
+
+
+.login-section img {
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    display: block;
+}
+.form-control {
+    width: 456px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    padding: 20px 25px;
+    background-color: red;
+    font-size: 24px;
+    text-transform: uppercase;
+    box-shadow: 1px 1px;
+    border-radius: 15px;
+}
